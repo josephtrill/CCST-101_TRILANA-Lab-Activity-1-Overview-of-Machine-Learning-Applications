@@ -1,6 +1,6 @@
 ## CCST-101_TRILANA-BSCS3A-Lab-Activity-1-Overview-of-Machine-Learning-Applications
 
-1.   [Healthcare - Predictive Diagnostics](#healthcare-predictive-diagnostics)
+1.   [Healthcare Predictive Diagnostics](#healthcare-predictive-diagnostics)
 2.   
 # Introduction to Machine Learning Applications
  A very brief explanation of what is machine learning.
@@ -8,7 +8,7 @@
 * Applications using machine learning we can learn from.
 * Importance of machine learning in solving real-world problems.
 
-# Healthcare - Predictive Diagnostics
+# Healthcare Predictive Diagnostics
  ![images](https://github.com/user-attachments/assets/c5bb8d04-a9c1-4fe3-9aff-eac551c2d240)
 
 ### Problem Being Solved:
