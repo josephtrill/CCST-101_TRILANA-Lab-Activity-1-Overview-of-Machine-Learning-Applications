@@ -1,7 +1,8 @@
 ## CCST-101_TRILANA-BSCS3A-Lab-Activity-1-Overview-of-Machine-Learning-Applications
 
 1.   [Healthcare Predictive Diagnostics](#healthcare-predictive-diagnostics)
-2.   
+2.   [Marketing Customer Segmentation](#marketing-customer-segmentation)
+3.   [ Fraud Detection for Finance](#fraud-detection-for-finance)
 # Introduction to Machine Learning Applications
  A very brief explanation of what is machine learning.
 * Supervised,Unsupervised and Reinforcement Machine Learning Previous Post
@@ -29,7 +30,7 @@
 
 * Saves Cost: Less dependence of expensive invasive procedures.
 
-# Marketing: Customer Segmentation
+# Marketing Customer Segmentation
 ![images](https://github.com/user-attachments/assets/2e3f0218-8ad0-403c-9c17-3a2f9afcfad8)
 
 ### Problem Being Solved:
