@@ -1,8 +1,12 @@
 ## CCST-101_TRILANA-BSCS3A-Lab-Activity-1-Overview-of-Machine-Learning-Applications
 
+## Table of Contents
+
 1.   [Healthcare Predictive Diagnostics](#healthcare-predictive-diagnostics)
 2.   [Marketing Customer Segmentation](#marketing-customer-segmentation)
 3.   [ Fraud Detection for Finance](#fraud-detection-for-finance)
+
+
 # Introduction to Machine Learning Applications
  A very brief explanation of what is machine learning.
 * Supervised,Unsupervised and Reinforcement Machine Learning Previous Post
