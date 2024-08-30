@@ -1,4 +1,4 @@
-## **CCST-101_TRILANA-BSCS3A-Lab-Activity-1-Overview-of-Machine-Learning-Applications**
+## **CCST-102_TRILANA-BSCS3A-Lab-Activity-1-Overview-of-Machine-Learning-Applications**
 
 ## Table of Contents
 
