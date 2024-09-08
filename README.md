@@ -26,7 +26,7 @@
 
 * Supervised Learning: Train models on labeled patient record datasets that capture features related to early signs of a disease.
 
-* Impact of the Solution:
+### Impact of the Solution:
 
 * Increased efficacy: Superior diagnostic accuracy.
 
